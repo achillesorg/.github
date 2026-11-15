@@ -1,3 +1,3 @@
-# Hexsource
+# Achilles
 
-Public organization profile and identity assets for [Hexsource](https://hexsource.mandrusia.tech/).
+Public organization profile and identity assets for [Achilles](https://achilles.mandrusia.tech/).
