@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/hexsource-avatar.svg" alt="Hexsource Signal" width="120" height="120">
+<img src="../assets/hexsource-wordmark.svg" alt="Hexsource" width="440">
 
 # Hexsource
 
@@ -8,16 +8,16 @@
 
 We build and maintain open-source tools, desktop systems and experimental software.
 
-[Website](https://achilles.mandrusia.tech/) · [Repositories](https://github.com/orgs/achillesorg/repositories)
+[Website](https://hexsource.mandrusia.tech/) · [Repositories](https://github.com/orgs/achillesorg/repositories)
 
 </div>
 
 ### Projects
 
-- **[Kiln GNU/Linux](https://github.com/achillesorg/kiln-gnu-linux)** — Debian-based GNU/Linux distribution with the Rust-powered Glaze desktop environment.
-- **[FlowDE](https://github.com/achillesorg/FlowDE)** — experimental Linux mobile desktop and services.
+- **[Kiln GNU/Linux](https://github.com/hexsourceorg/kiln-gnu-linux)** — Debian-based GNU/Linux distribution with the Rust-powered Glaze desktop environment.
+- **[FlowDE](https://github.com/hexsourceorg/FlowDE)** — experimental Linux mobile desktop and services.
 
-**Hexsource** is the new name of the organisation formerly branded **Achilles**. The existing GitHub organisation handle, URLs and project names are preserved to avoid breaking links.
+**Hexsource** is the new name of the organisation previously known as **Achilles**. The existing GitHub organisation handle, URLs and project names are preserved to avoid breaking links.
 
 ---
 
