@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/hexsource-wordmark-white.svg">
-  <img src="../assets/hexsource-wordmark.svg" alt="Hexsource" width="440">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/achilles-wordmark-white.svg">
+  <img src="../assets/achilles-wordmark.svg" alt="Achilles" width="440">
 </picture>
 
 **Software built in the open.**
@@ -19,8 +19,8 @@ We build and maintain open-source tools, desktop systems and experimental softwa
 - **[GlazeDE](https://github.com/hexsourceorg/GlazeDE)** — a native Rust and GTK4 Wayland desktop environment for Fedora Linux.
 - **[FlowDE](https://github.com/hexsourceorg/FlowDE)** — experimental Linux mobile desktop and services.
 
-**Hexsource** builds open-source software and tools. Kiln GNU/Linux, GlazeDE and FlowDE retain their own project identities.
+**Achilles** builds open-source software and tools. Kiln GNU/Linux, GlazeDE and FlowDE retain their own project identities.
 
 ---
 
-<sub>Hexsource · Open development, clear direction.</sub>
+<sub>Achilles · Open development, clear direction.</sub>
