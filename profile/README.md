@@ -5,7 +5,7 @@
   <img src="../assets/achilles-wordmark.svg" alt="Achilles" width="440">
 </picture>
 
-We build open-source tools, desktop systems and experimental software.
+We build open-source software and tools.
 
 [Website](https://achilles.mandrusia.tech/) · [Repositories](https://github.com/orgs/hexsourceorg/repositories)
 
@@ -18,7 +18,3 @@ We build open-source tools, desktop systems and experimental software.
 - **[FlowDE](https://github.com/hexsourceorg/FlowDE)** — experimental Linux mobile desktop and services.
 
 **Achilles** builds open-source software and tools. Kiln GNU/Linux, GlazeDE and FlowDE retain their own project identities.
-
----
-
-<sub>Achilles.</sub>
