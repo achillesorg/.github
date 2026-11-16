@@ -5,7 +5,7 @@
   <img src="../assets/achilles-wordmark.svg" alt="Achilles" width="440">
 </picture>
 
-<sub>Achilles name and logo by <a href="https://github.com/56Mugiwara">56Mugiwara</a>.</sub>
+<sub>Achilles name and logo by <a href="https://github.com/56Mugiwara">56Mugiwara, the logo above was made by <a href="https://github.com/Mandrusian">Mandrusia</a>.</sub>
 
 We build open-source software and tools.
 
