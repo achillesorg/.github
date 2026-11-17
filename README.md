@@ -1,5 +1,3 @@
-# Achilles
+# Kiln GNU/Linux
 
-Public organization profile and identity assets for [Achilles](https://achilles.mandrusia.tech/).
-
-**Achilles name and logo:** [56Mugiwara](https://github.com/56Mugiwara).
+GitHub organization profile and vector identity assets for [Kiln GNU/Linux](https://kiln.mandrusia.tech/).
